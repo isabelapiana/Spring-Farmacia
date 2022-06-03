@@ -41,8 +41,8 @@ public class Categorias {
 		return classe;
 	}
 
-	public void setClasse_categorias(String classe_categorias) {
-		this.classe = classe_categorias;
+	public void setClasse(String classe) {
+		this.classe = classe;
 	}
 
 	public List<Produtos> getProdutos() {
